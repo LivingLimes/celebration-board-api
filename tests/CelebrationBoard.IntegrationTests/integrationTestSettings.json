@@ -1,0 +1,4 @@
+{
+  "CelebrationBoardConnectionString": "Username=postgres;Password=password;Server=db:5432;Database=celebration_board",
+  "CelebrationBoardUsersConnectionString": "Username=postgres;Password=password;Server=user-db:5432;Database=celebration_user_board"
+}
